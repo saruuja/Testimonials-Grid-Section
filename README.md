@@ -15,8 +15,8 @@ Users should be able to View the optimal layout depending on their device's scre
 
 ### Links
 
-- [Add solution URL here](https://your-solution-url.com)
-- [Add live site URL here](https://your-live-site-url.com)
+- [Add solution URL here](https://github.com/saruuja/Testimonials-Grid-Section)
+- [Add live site URL here](https://saruuja.github.io/Testimonials-Grid-Section/)
 
 ## My process
 I first created the HTML structure for the grid section, then I added the CSS styles to make it responsive and adapt to different screen sizes. I used CSS Grid to create the grid layout.
